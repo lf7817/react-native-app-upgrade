@@ -1,6 +1,6 @@
 {
-  "name": "rn-app-upgrade",
-  "version": "1.1.8",
+  "name": "react-native-app-upgrade",
+  "version": "1.1.9",
   "description": "react native app upgrade",
   "main": "index.js",
   "scripts": {
